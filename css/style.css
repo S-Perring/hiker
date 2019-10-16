@@ -1,7 +1,11 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500,600,700|Exo:100,200,300,400,500,600,700');
+
+
 .nav-link {
-    color: #f0ece1;
-    font-weight: 200;
+    font-family: Garamond;
     font-style: italic;
+    font-size: 1.3em;
+    font-weight: bold;
 }
 
 
@@ -19,40 +23,44 @@
 
 }
 
-.container {
-    margin: 0;
-    margin-right: 0;
-    padding: 0;
-    
-}
-
-
 
 .navbar-brand {
-    font: 'Apple Chancery', sans-serif;
-    font-size: x-large;
+    font-family: Garamond;
+    font-size: 2em;
     font-style: italic;
-    color: #f0ece1;
 }
 
-p {
+.explore {
+    font-family: Garamond;
     text-align: center;
     font-style: italic;
+    font-size: 2.5em;
+    font-weight: bolder;
+    color: #4B0082;
+    
+}    
 
+
+a {
+    text-shadow: 0 0 10px black;
 }
 
 footer {
+    padding-left: 10px;
     position: relative;
-    font-style: italic;
-    background-color: rgba(255, 255, 128, .5);
-}
-
-p {
-    padding: 30%;
-    color: #444;
-    font-weight: 500;
-}
-
-body {
     font-family: Garamond;
+    font-style: italic;
+    color: #fff;
+    font-size: 1em;
+}
+
+a:hover {
+  text-decoration: none;
+  color: #fff;
+  transition: 1s;
+  
+}
+
+.navbar {
+    color: #fff;
 }
