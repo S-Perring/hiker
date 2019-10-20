@@ -13,15 +13,23 @@
 .main-pic {
     background-image: url(../css/images/main.JPG);
     background-size: cover;
+    background-position: center center;
     max-width: 100%;
     height: 100vh;
+    bottom: 0;
+    left: 0;
     padding: 0;
     display: flex;
     align-items: center;
     justify-content: center;
     background-repeat: no-repeat;
-
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    
+    
 }
+
 
 
 .navbar-brand {
@@ -30,12 +38,19 @@
     font-style: italic;
 }
 
+
+.enter {
+    margin-right: 10%;
+}
+
+
+
 .explore {
+    
     Background-color: rgba(195, 195, 195, 0.4);
     padding: 20%;
     border-radius: 50%;
     font-family: Garamond;
-    text-align: center;
     font-style: italic;
     font-size: 2.5em;
     font-weight: bolder;
@@ -44,7 +59,9 @@
 }    
 
 
-a {
+
+
+a {       
     text-shadow: 0 0 10px black;
 }
 
@@ -127,9 +144,11 @@ body{
     font-style: italic;
     color: #4B0082;
     margin-top: 10%;
+    margin-right: 0;
     border-radius: 10%;
     margin-bottom: 5%;
     width: 70%;
+
 }
 .contact-form .form-control{
     border-radius:1rem;
@@ -138,11 +157,14 @@ body{
 .contact-form form{
     padding: 14%;
     
+    
 }
 .contact-form form .row{
     margin-bottom: -7%;
     
 }
+
+
 .contact-form h3{
     margin-bottom: 8%;
     margin-top: -10%;
@@ -150,7 +172,8 @@ body{
 
 }
 .contact-form .btnContact {
-    margin-right: 25%;
+    display: block;
+    margin: auto;
     font-family: Garamond;
     font-style: italic;
     border: none;
@@ -174,41 +197,58 @@ body{
 /*------------------- gallery-------------------------*/
 
 .container-gallery {
-    margin-top: 5%;
     margin-left: 10%;
     margin-right: 10%;
     font-family: Garamond;
     font-style: italic;
     text-align: center;
     color: #4B0082;
-    padding: inherit;
+    padding: .5%;
     
     
 }
 
+
+
+
 .card {
     position: relative;
     float: left;
-    width:  300px;
-    height: 300px;
     overflow: hidden;
+    Background-color: rgb(187, 221, 240);
+    border: none;
 
    
 
 }
 
 .gallerypage {
-    Background-color: rgb(187, 221, 240);
-    padding-top: 1.5%;
-    padding-bottom: 1.5%;
+    Background-color: #80aaff;
+    padding-top: 2%;
+    padding-bottom: 4%;
     
 }
 
 .card:hover {
     cursor: pointer;
-    transform: scale(1.5);
+    transform: scale(1.2);
     transition: 1s;
     z-index: 1;
 
     background-color: #4B0082;
+}
+
+#gallery-header {
+    background-color: #8b35c4;
+    background: linear-gradient(#4B0082, #80aaff); 
+}
+
+.copyright-gallery {
+    display: inline-block;
+    margin-bottom: 10px;
+    text-align: left;
+    width: 60%;
+    position: absolute;
+    bottom: 0px;
+    color: #4B0082;
 }
