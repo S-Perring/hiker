@@ -223,7 +223,7 @@ body{
 }
 
 .gallerypage {
-    Background-color: #80aaff;
+    Background-color: #dae7ed;
     padding-top: 2%;
     padding-bottom: 4%;
     
@@ -240,7 +240,7 @@ body{
 
 #gallery-header {
     background-color: #8b35c4;
-    background: linear-gradient(#4B0082, #80aaff); 
+    background: linear-gradient(#4B0082, #dae7ed); 
 }
 
 .copyright-gallery {
