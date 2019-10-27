@@ -1,14 +1,8 @@
-         ___        ______     ____ _                 _  ___  
-        / \ \      / / ___|   / ___| | ___  _   _  __| |/ _ \ 
-       / _ \ \ /\ / /\___ \  | |   | |/ _ \| | | |/ _` | (_) |
-      / ___ \ V  V /  ___) | | |___| | (_) | |_| | (_| |\__, |
-     /_/   \_\_/\_/  |____/   \____|_|\___/ \__,_|\__,_|  /_/ 
- ----------------------------------------------------------------- 
+## Milestone Project 1: User-Centric Frontend Development - Code Institute
 
+This website is designed to be a gallery to display images taken while hiking on trails around Ireland.
+The main objective is to provide enjoyment to the user and lead them through to the various social media platforms and join a wider hiker's community. The end goal is to create a sharing ok knowledge, hints, experience and tips to current and aspiring hikers.
 
-Hi there! Welcome to AWS Cloud9!
-
-To get started, create some files, play with the terminal,
-or visit https://docs.aws.amazon.com/console/cloud9/ for our documentation.
-
-Happy coding!
+### Functionality
+The website is laid out over four different pages. The main landing page featutes a bootstrap navbar and an anchor tag leading directly to the gallery page.
+The main navbar is consistent throughout the project in its style and functionality. It is designed to condense to a drop down list on mobile devices.
