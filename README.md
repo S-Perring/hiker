@@ -50,7 +50,7 @@ In GitHub I changed the GitHub Pages option in settings to "Master Branch" to pr
 ### Testing
 Testing was carried out as the project build was ongoing. Using Cloud9 and Google developer tools to test the look, feel and functionality of the project.
 Having originally used the main image as the background for the gallery I decided to go for a plain background to declutter the page. During testing I added a media query to enlarge the text on the about page as it looked too small on larger screens.
-The Bootstrap contact form was modified to alter the look and custom CSS was added to both the boostrap navbar and contact form.
+The Bootstrap contact form was modified to alter the look and custom CSS was added to both the Bootstrapoostrap navbar and contact form.
 Following advice from my mentor I reduced the size of the images to facilitate faster loading and prevent negative point scoring in the Google search optimisation.
 The website was tested on Chrome, IE, iPhone 6/7/8 and Samsung S5 as well as Google developer tools. 
 The links were tested as well as the look and transformation of the presented site on the respective screen size/browser.
