@@ -14,10 +14,10 @@ I chose not to use the main image in the gallery section. I felt the gallery ima
 White and purple were used to compliment the colour scheme throughout the website. The main navbar in the gallery uses this colour scheme to allow the header to stand out and provide the user with a consistency of user functionality and colour scheme.
 The links to the social media accounts are not hooked up but are presented to encourage the user the click through and join the online community in accordance with the main objective of the project.
 My User Experience Design documentation helped in the original mapping and planning for the project. It is available for review in GitHub through the links below.
-+ [Strategy Plane](../documentation/Strategy Plane.pdf)
-+ [Scope Plane](../documentation/Scope Plane.pdf)
-+ [Structure Plane](../documentation/Structure Plane.pdf)
-+ [Skeleton Plane](../documentation/Skeleton Plane_Wireframe.pdf)
++ Strategy Plane - [https://github.com/S-Perring/hiker/blob/master/documentation/Strategy%20Plane.pdf]
++ Scope Plane - [https://github.com/S-Perring/hiker/blob/master/documentation/Scope%20Plane.pdf]
++ Structure Plane - [https://github.com/S-Perring/hiker/blob/master/documentation/Structure%20Plane.pdf]
++ Skeleton Plane - [https://github.com/S-Perring/hiker/blob/master/documentation/Skeleton%20Plane_Wireframe.pdf]
 
 ### Additional features and project expansion
 The primary and initial focus of the project is to promote hiking and encourage the creation of an online hiking community through the website as an initial gateway and on to Facebook, Instagram, Twitter and YouTube. 
